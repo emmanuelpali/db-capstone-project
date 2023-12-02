@@ -1,1 +1,3 @@
-setting up repository for project
+![snapshot](LittleLemonDM.png)
+
+Meta Database Professional Certificate Capstone
